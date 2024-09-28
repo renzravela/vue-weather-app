@@ -132,7 +132,7 @@ const getUserLocation = () => {
 }
 
 onMounted(() => {
-    console.log('App Mounted.')
+    console.log('App Mounted. Created by Renz Aerol Ravela -> https://github.com/renzravela')
     getUserLocation();
 });
 </script>
